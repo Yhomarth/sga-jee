@@ -2,3 +2,5 @@
 ###################
 nbproject/*
 target/*
+build/*
+build.xml
